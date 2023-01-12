@@ -17,7 +17,7 @@
 
 <div style="margin-top: 24px">
 
-As a Visual Communication Designer and self-taught mobile developer, I bring a unique blend of creative and technical skills to the table. I grew up with a passion for technology and an eagerness to explore its possibilities. I am particularly interested in the Apple ecosystem and have a strong desire to become a Swift developer. Throughout my studies at İzmir University of Economics, I honed my design skills and taught myself mobile development, allowing me to create visually stunning and functional projects. I am also interested in networking and backend technologies such as Swift Vapor, NGINX, Linux and more. With my dedication and ability to adapt, I am always looking to improve and take on new challenges. My Github showcases my technical abilities and design portfolio, showcasing my capabilities as a designer and developer.
+As a hardworking and ambitious Visual Communication Designer and self-taught mobile developer, I bring a unique blend of creative and technical skills to the table. I grew up with a passion for technology and an eagerness to explore its possibilities. I am particularly interested in the Apple ecosystem and have a strong desire to become a Swift developer. Throughout my studies at İzmir University of Economics, I honed my design skills and taught myself mobile development, allowing me to create visually stunning and functional projects. I am also interested in networking and backend technologies such as Swift Vapor, NGINX, Linux and more. I am constantly looking to improve myself and take on new challenges, with my Github showcasing my technical abilities, design portfolio and my dedication to self-improvement.
 
 </div>
 
