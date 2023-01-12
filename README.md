@@ -15,15 +15,12 @@
 
 </div>
 
-<!--
 <div style="margin-top: 24px">
 
-Molestias maiores consequatur dolores eum animi sit officiis. A rerum eum et voluptatum similique qui quam iure. Adipisci qui ut quo vel. Officia magni dolorum in architecto tenetur. Sit similique placeat. Non ea sunt dolor maxime voluptatem nostrum.
-
-Cum illum quis facilis. Voluptate recusandae maiores est. Itaque eaque iure nemo. Temporibus hic in est. Asperiores fugiat ipsa veritatis voluptatum ducimus. At explicabo ducimus rerum.
+As a Visual Communication Designer and self-taught mobile developer, I bring a unique blend of creative and technical skills to the table. I grew up with a passion for technology and an eagerness to explore its possibilities. I am particularly interested in the Apple ecosystem and have a strong desire to become a Swift developer. Throughout my studies at İzmir University of Economics, I honed my design skills and taught myself mobile development, allowing me to create visually stunning and functional projects. I am also interested in networking and backend technologies such as Swift Vapor, NGINX, Linux and more. With my dedication and ability to adapt, I am always looking to improve and take on new challenges. My Github showcases my technical abilities and design portfolio, showcasing my capabilities as a designer and developer.
 
 </div>
--->
+
 <!-- Welcoming Section Start -->
 
 <!-- Keep In Touch Section Start -->
