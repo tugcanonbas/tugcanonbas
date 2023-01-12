@@ -81,17 +81,17 @@ Cum illum quis facilis. Voluptate recusandae maiores est. Itaque eaque iure nemo
 
 <div style="margin-top: 32px;">
 
-### Design Tools & Technologies I Use
+### Tools & Technologies I Use
 
-[![My Skills](https://skillicons.dev/icons?i=figma,xd,ai,ps,ae,pr,au,blender,sketchup)](https://behance.net/tugcanonbas)
+[![My Skills](https://skillicons.dev/icons?i=swift,dart,flutter,kotlin,py,firebase,git,github,gitlab,vscode,unity)](https://github.com/tugcanonbas)
 
 </div>
 
 <div style="margin-top: 32px;">
 
-### Tools & Technologies I Use
+### Design Tools & Technologies I Use
 
-[![My Skills](https://skillicons.dev/icons?i=swift,dart,flutter,kotlin,py,firebase,git,github,gitlab,vscode,unity)](https://github.com/tugcanonbas)
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,ai,ps,ae,pr,au,blender,sketchup)](https://behance.net/tugcanonbas)
 
 </div>
 
