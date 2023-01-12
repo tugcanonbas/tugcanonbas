@@ -27,7 +27,7 @@ Cum illum quis facilis. Voluptate recusandae maiores est. Itaque eaque iure nemo
 <!-- Welcoming Section Start -->
 
 <!-- Keep In Touch Section Start -->
-<!--
+
 <div style="margin-top: 32px">
 
 ### 🔗 Let's keep in touch!
@@ -36,38 +36,38 @@ Cum illum quis facilis. Voluptate recusandae maiores est. Itaque eaque iure nemo
     margin-top: 24px;
     display: flex;
     justify-content: space-between;
+    text-align: center;
     gap: 20px;
     ">
 
-<a href="https://google.com">
-<img src="https://i.picsum.photos/id/885/64/32.jpg?hmac=1VICK3WMdhK4jM4DDMs3AusLFPbApvWsxxtToSXDUys">
+<a href="https://linkedin.com/in/tugcanonbas">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://google.com">
-<img src="https://i.picsum.photos/id/885/64/32.jpg?hmac=1VICK3WMdhK4jM4DDMs3AusLFPbApvWsxxtToSXDUys">
+<a href="https://behance.net/tugcanonbas">
+<img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white">
 </a>
-<a href="https://google.com">
-<img src="https://i.picsum.photos/id/885/64/32.jpg?hmac=1VICK3WMdhK4jM4DDMs3AusLFPbApvWsxxtToSXDUys">
+<a href="https://twitter.com/tgcn_dev">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
-<a href="https://google.com">
-<img src="https://i.picsum.photos/id/885/64/32.jpg?hmac=1VICK3WMdhK4jM4DDMs3AusLFPbApvWsxxtToSXDUys">
-</a>
-<a href="https://google.com">
-<img src="https://i.picsum.photos/id/885/64/32.jpg?hmac=1VICK3WMdhK4jM4DDMs3AusLFPbApvWsxxtToSXDUys">
-</a>
-<a href="https://google.com">
-<img src="https://i.picsum.photos/id/885/64/32.jpg?hmac=1VICK3WMdhK4jM4DDMs3AusLFPbApvWsxxtToSXDUys">
-</a>
-<a href="https://google.com">
-<img src="https://i.picsum.photos/id/885/64/32.jpg?hmac=1VICK3WMdhK4jM4DDMs3AusLFPbApvWsxxtToSXDUys">
-</a>
-<a href="https://google.com">
-<img src="https://i.picsum.photos/id/885/64/32.jpg?hmac=1VICK3WMdhK4jM4DDMs3AusLFPbApvWsxxtToSXDUys">
+
+</div>
+
+<div style="
+    margin-top: 24px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    gap: 20px;
+">
+
+<a href="mailto:tgcn@tugcanonbas.com">
+<img src="https://img.shields.io/badge/-tgcn@tugcanonbas.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgcn@tugcanonbas.com">
 </a>
 
 </div>
 
 </div>
--->
+
 <!-- Keep In Touch Section End -->
 
 <!-- The Things Section Start -->
