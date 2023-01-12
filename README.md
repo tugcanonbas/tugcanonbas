@@ -111,6 +111,10 @@ Cum illum quis facilis. Voluptate recusandae maiores est. Itaque eaque iure nemo
 
 ### 💻 The Things That I Made
 
+<div style="border-top: 1px solid #303030; margin-top: 16px; margin-bottom: 16px;"></div>
+
+##### 😇 And will always be in progress
+
 </div>
 
 <!-- eightthings Section Start -->
@@ -175,9 +179,9 @@ Taking the camplore application, which is the graduation project of my undergrad
 <summary>Mobile Developer at <a href="https://digitastic.de" >digitastic</a> | 02.2022 - Present</summary>
 <div style="margin-top: 16px;">
 
-İzmir
+- 🇹🇷 İzmir
 
-Mobile application development in the field of accounting systems in different languages such as Flutter, Swift, Kotlin.
+- Mobile application development in the field of accounting systems in different languages such as Flutter, Swift, Kotlin.
 
 </div>
 </details>
@@ -186,9 +190,9 @@ Mobile application development in the field of accounting systems in different l
 <summary>Visual Communication Designer at <a href="http://digitaldaragac.ieu.edu.tr" >Digital Darağaç - İzmir University of Economics</a> | 08.2020 - Present</summary>
 <div style="margin-top: 16px;">
 
-İzmir
+- 🇹🇷 İzmir
 
-Outdoor Augmented Reality for Alternative Art Spaces for scientific research project of İzmir University of Economics.
+- Outdoor Augmented Reality for Alternative Art Spaces for scientific research project of İzmir University of Economics.
 
 </div>
 </details>
@@ -197,9 +201,9 @@ Outdoor Augmented Reality for Alternative Art Spaces for scientific research pro
 <summary>Creative Director at <a href="https://gokhantalay.com" >Gökhan Talay Ayakkabı</a> | 03.2021 - 06.2021</summary>
 <div style="margin-top: 16px;">
 
-İzmir
+- 🇹🇷 İzmir
 
-E-commerce designs and product photography, working with sales and marketing.
+- E-commerce designs and product photography, working with sales and marketing.
 
 </div>
 </details>
@@ -208,9 +212,9 @@ E-commerce designs and product photography, working with sales and marketing.
 <summary>Freelance Designer at <a href="https://www.naturelsuaritma.com.tr" >Naturel Su Arıtma</a> | 09.2019</summary>
 <div style="margin-top: 16px;">
 
-Ankara
+- 🇹🇷 Ankara
 
-Web content creation for the company’s website.
+- Web content creation for the company’s website.
 
 </div>
 </details>
@@ -219,9 +223,9 @@ Web content creation for the company’s website.
 <summary>Graphic Design Intern at <span >Medya Ankara Çözüm Danışmanlık</span> | 07.2019</summary>
 <div style="margin-top: 16px;">
 
-Ankara
+- 🇹🇷 Ankara
 
-Poster designing for the company.
+- Poster designing for the company.
 
 </div>
 </details>
@@ -230,9 +234,9 @@ Poster designing for the company.
 <summary>Freelance Photographer at <span >Payidar Law Agency</span> | 02.2019</summary>
 <div style="margin-top: 16px;">
 
-Ankara
+- 🇹🇷 Ankara
 
-Shooting custom business photographs for the company's website.
+- Shooting custom business photographs for the company's website.
 
 </div>
 </details>
@@ -241,9 +245,9 @@ Shooting custom business photographs for the company's website.
 <summary>Graphic Designer at <span >Medya Ankara Çözüm Danışmanlık</span> | 08.2019 - 02.2019</summary>
 <div style="margin-top: 16px;">
 
-Ankara
+- 🇹🇷 Ankara
 
-Website content designing and Wordpress menagement.
+- Website content designing and Wordpress menagement.
 
 </div>
 </details>
@@ -252,9 +256,9 @@ Website content designing and Wordpress menagement.
 <summary>Freelance Photographer for <a href="https://www.behance.net/gallery/133307907/Fashion-Photography" >Hilal Karakaş</a> | 01.2019</summary>
 <div style="margin-top: 16px;">
 
-Ankara
+- 🇹🇷 Ankara
 
-Official photographer for the school project that focused on fashion.
+- Official photographer for the school project that focused on fashion.
 
 </div>
 </details>
@@ -263,9 +267,9 @@ Official photographer for the school project that focused on fashion.
 <summary>Freelance Designer at <a href="http://www.arfenkoleji.com" >Arfen Private School</a> | 06.2018</summary>
 <div style="margin-top: 16px;">
 
-Ankara
+- 🇹🇷 Ankara
 
-Designing the school’s yearbook for the class of 2018.
+- Designing the school’s yearbook for the class of 2018.
 
 </div>
 </details>
@@ -274,9 +278,9 @@ Designing the school’s yearbook for the class of 2018.
 <summary>Freelance Video Producer at <a href="http://www.arfenkoleji.com" >Arfen Private School</a> | 06.2018</summary>
 <div style="margin-top: 16px;">
 
-Ankara
+- 🇹🇷 Ankara
 
-Produced and edited the advertisement/promotion video for the school.
+- Produced and edited the advertisement/promotion video for the school.
 
 </div>
 </details>
@@ -295,7 +299,7 @@ Produced and edited the advertisement/promotion video for the school.
 <summary>Fresh From The Oven at <a href="https://ilt.ieu.edu.tr/en/news/type/read/id/6427" > İzmir University of Economics</a> (Exibition) | 04.2019</summary>
 <div style="margin-top: 16px;">
 
-İzmir
+- 🇹🇷 İzmir
 
 </div>
 </details>
@@ -304,7 +308,7 @@ Produced and edited the advertisement/promotion video for the school.
 <summary>"Which One is Hard: To Create or To Sell?" with <a href="https://ilt.ieu.edu.tr/en/news/type/read/id/6213" > Mehmet Gözetlik at İzmir University of Economics</a> (Workshop) | 03.2019</summary>
 <div style="margin-top: 16px;">
 
-İzmir
+- 🇹🇷 İzmir
 
 </div>
 </details>
@@ -313,7 +317,7 @@ Produced and edited the advertisement/promotion video for the school.
 <summary>Mirror with <a href="https://www.behance.net/gallery/87433779/Mirror-Workshop-Teaser" > Ozan Atalan and İdil Özusta at İzmir University of Economics</a> (Workshop) | 12.2018</summary>
 <div style="margin-top: 16px;">
 
-İzmir
+- 🇹🇷 İzmir
 
 </div>
 </details>
@@ -322,7 +326,7 @@ Produced and edited the advertisement/promotion video for the school.
 <summary>Floating Forest Printing at <a href="https://mt.ieu.edu.tr/en/news/type/read/id/5952" > Good Design İzmir_3</a> (Workshop) | 10.2018</summary>
 <div style="margin-top: 16px;">
 
-İzmir
+- 🇹🇷 İzmir
 
 </div>
 </details>
@@ -331,7 +335,7 @@ Produced and edited the advertisement/promotion video for the school.
 <summary>Play With Your Food with <a href="https://ilt.ieu.edu.tr/en/news/type/read/id/5521" > Professor Phil Cleaver at İzmir University of Economics</a> (Workshop) | 05.2018</summary>
 <div style="margin-top: 16px;">
 
-İzmir
+- 🇹🇷 İzmir
 
 </div>
 </details>
@@ -340,7 +344,7 @@ Produced and edited the advertisement/promotion video for the school.
 <summary>Here & Now at <span > Social Sciences University of Ankara</span> (Exibition) | 06.2017</summary>
 <div style="margin-top: 16px;">
 
-Ankara
+- 🇹🇷 Ankara
 
 </div>
 </details>
@@ -349,7 +353,7 @@ Ankara
 <summary>Game Tournament at <a href="https://adayogrenci.asbu.edu.tr/tr/galeri/birinci-asbu-senligi" > Social Sciences University of Ankara</a> (Organization) | 06.2017</summary>
 <div style="margin-top: 16px;">
 
-Ankara
+- 🇹🇷 Ankara
 
 As Digital Game Design students, we organized a Game Tournament for Social Science University of Ankara
 
@@ -360,7 +364,7 @@ As Digital Game Design students, we organized a Game Tournament for Social Scien
 <summary>Digital Game Development Program at <a href="https://sem.tedu.edu.tr/dijital-oyun-egitim-projeleri.html" > TED University</a> (Certificate) | 06.2017</summary>
 <div style="margin-top: 16px;">
 
-Ankara
+- 🇹🇷 Ankara
 
 </div>
 </details>
