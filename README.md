@@ -149,7 +149,7 @@ Cum illum quis facilis. Voluptate recusandae maiores est. Itaque eaque iure nemo
 
 Taking the camplore application, which is the graduation project of my undergraduate education, one step further, I started developing it for iOS devices.
 
-<img src="https://github.com/tugcanonbas/camplore_public/blob/main/Sources/header_image.jpg" height="400"></img>
+<img src="https://github.com/tugcanonbas/camplore_public/blob/main/Sources/header_image.jpg"></img>
 
 <br />
 
