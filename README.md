@@ -1,9 +1,11 @@
 <!-- Header Image Section Start -->
+<!--
 <div>
 
 ![tugcanonbas banner](https://picsum.photos/800/300)
 
 </div>
+-->
 <!-- Header Image Section End -->
 
 <!-- Welcoming Section Start -->
@@ -13,6 +15,7 @@
 
 </div>
 
+<!--
 <div style="margin-top: 24px">
 
 Molestias maiores consequatur dolores eum animi sit officiis. A rerum eum et voluptatum similique qui quam iure. Adipisci qui ut quo vel. Officia magni dolorum in architecto tenetur. Sit similique placeat. Non ea sunt dolor maxime voluptatem nostrum.
@@ -20,9 +23,11 @@ Molestias maiores consequatur dolores eum animi sit officiis. A rerum eum et vol
 Cum illum quis facilis. Voluptate recusandae maiores est. Itaque eaque iure nemo. Temporibus hic in est. Asperiores fugiat ipsa veritatis voluptatum ducimus. At explicabo ducimus rerum.
 
 </div>
+-->
 <!-- Welcoming Section Start -->
 
 <!-- Keep In Touch Section Start -->
+<!--
 <div style="margin-top: 32px">
 
 ### 🔗 Let's keep in touch!
@@ -62,7 +67,34 @@ Cum illum quis facilis. Voluptate recusandae maiores est. Itaque eaque iure nemo
 </div>
 
 </div>
+-->
 <!-- Keep In Touch Section End -->
+
+<!-- The Things Section Start -->
+
+<div style="margin-top: 32px;">
+
+### The Things
+
+</div>
+
+<!-- eightthings Section Start -->
+
+<div>
+
+#### <a href="https://github.com/tugcanonbas/eightthings_public">eightthings</a>
+
+</div>
+
+| Where life meets bytes!                                                                          | Be consistent and win!                                                                           | Custom Themes!                                                                                   | Always with you!                                                                                 | Dark mode of course!                                                                             |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
+| ![](https://github.com/tugcanonbas/eightthings_public/blob/main/Sources/AppStore/appstore_1.png) | ![](https://github.com/tugcanonbas/eightthings_public/blob/main/Sources/AppStore/appstore_2.png) | ![](https://github.com/tugcanonbas/eightthings_public/blob/main/Sources/AppStore/appstore_3.png) | ![](https://github.com/tugcanonbas/eightthings_public/blob/main/Sources/AppStore/appstore_4.png) | ![](https://github.com/tugcanonbas/eightthings_public/blob/main/Sources/AppStore/appstore_5.png) |
+
+<br />
+
+<!-- eightthings Section Start -->
+
+<!-- The Things Section End -->
 
 <!-- Experience Section Start -->
 
@@ -183,3 +215,87 @@ Produced and edited the advertisement/promotion video for the school.
 </details>
 
 <!-- Experience Section End -->
+
+<!-- Achievements Section Start -->
+
+<div style="margin-top: 32px;">
+
+### Achievements
+
+</div>
+
+<details style="margin-top: 24px">
+<summary>Fresh From The Oven at <a href="https://ilt.ieu.edu.tr/en/news/type/read/id/6427" style="color: cyan;"> İzmir University of Economics</a> (Exibition) | 04.2019</summary>
+<div style="margin-top: 16px;">
+
+İzmir
+
+</div>
+</details>
+
+<details style="margin-top: 24px">
+<summary>"Which One is Hard: To Create or To Sell?" with <a href="https://ilt.ieu.edu.tr/en/news/type/read/id/6213" style="color: cyan;"> Mehmet Gözetlik at İzmir University of Economics</a> (Workshop) | 03.2019</summary>
+<div style="margin-top: 16px;">
+
+İzmir
+
+</div>
+</details>
+
+<details style="margin-top: 24px">
+<summary>Mirror with <a href="https://www.behance.net/gallery/87433779/Mirror-Workshop-Teaser" style="color: cyan;"> Ozan Atalan and İdil Özusta at İzmir University of Economics</a> (Workshop) | 12.2018</summary>
+<div style="margin-top: 16px;">
+
+İzmir
+
+</div>
+</details>
+
+<details style="margin-top: 24px">
+<summary>Floating Forest Printing at <a href="https://mt.ieu.edu.tr/en/news/type/read/id/5952" style="color: cyan;"> Good Design İzmir_3</a> (Workshop) | 10.2018</summary>
+<div style="margin-top: 16px;">
+
+İzmir
+
+</div>
+</details>
+
+<details style="margin-top: 24px">
+<summary>Play With Your Food with <a href="https://ilt.ieu.edu.tr/en/news/type/read/id/5521" style="color: cyan;"> Professor Phil Cleaver at İzmir University of Economics</a> (Workshop) | 05.2018</summary>
+<div style="margin-top: 16px;">
+
+İzmir
+
+</div>
+</details>
+
+<details style="margin-top: 24px">
+<summary>Here & Now at <span style="color: cyan;"> Social Sciences University of Ankara</span> (Exibition) | 06.2017</summary>
+<div style="margin-top: 16px;">
+
+Ankara
+
+</div>
+</details>
+
+<details style="margin-top: 24px">
+<summary>Game Tournament at <a href="https://adayogrenci.asbu.edu.tr/tr/galeri/birinci-asbu-senligi" style="color: cyan;"> Social Sciences University of Ankara</a> (Organization) | 06.2017</summary>
+<div style="margin-top: 16px;">
+
+Ankara
+
+As Digital Game Design students, we organized a Game Tournament for Social Science University of Ankara
+
+</div>
+</details>
+
+<details style="margin-top: 24px">
+<summary>Digital Game Development Program at <a href="https://sem.tedu.edu.tr/dijital-oyun-egitim-projeleri.html" style="color: cyan;"> TED University</a> (Certificate) | 06.2017</summary>
+<div style="margin-top: 16px;">
+
+Ankara
+
+</div>
+</details>
+
+<!-- Achievements Section End -->
