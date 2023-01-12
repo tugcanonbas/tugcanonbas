@@ -38,6 +38,24 @@ Cum illum quis facilis. Voluptate recusandae maiores est. Itaque eaque iure nemo
     justify-content: space-between;
     text-align: center;
     gap: 20px;
+">
+
+<a href="https://tugcanonbas.com">
+<img src="https://img.shields.io/badge/tugcanonbas.com-000000?style=for-the-badge&logo=About.me&logoColor=white">
+</a>
+
+<a href="mailto:tgcn@tugcanonbas.com">
+<img src="https://img.shields.io/badge/-tgcn@tugcanonbas.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgcn@tugcanonbas.com">
+</a>
+
+</div>
+
+<div style="
+    margin-top: 24px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    gap: 20px;
     ">
 
 <a href="https://linkedin.com/in/tugcanonbas">
@@ -49,19 +67,8 @@ Cum illum quis facilis. Voluptate recusandae maiores est. Itaque eaque iure nemo
 <a href="https://twitter.com/tgcn_dev">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
-
-</div>
-
-<div style="
-    margin-top: 24px;
-    display: flex;
-    justify-content: space-between;
-    text-align: center;
-    gap: 20px;
-">
-
-<a href="mailto:tgcn@tugcanonbas.com">
-<img src="https://img.shields.io/badge/-tgcn@tugcanonbas.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgcn@tugcanonbas.com">
+<a href="https://apps.apple.com/tr/developer/tugcan-onbas/id1606259525">
+<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white">
 </a>
 
 </div>
