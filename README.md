@@ -272,7 +272,7 @@ Taking the camplore application, which is the graduation project of my undergrad
 </details>
 
 <details style="margin-top: 24px">
-<summary>Freelance Video Producer at <a href="http://www.arfenkoleji.com" >Arfen Private School</a> | 06.2018</summary>
+<summary>Freelance Video Producer at <a href="https://www.youtube.com/watch?v=PFbnnV9hwr4" >Arfen Private School</a> | 06.2018</summary>
 <div style="margin-top: 16px;">
 
 - 🇹🇷 Ankara
