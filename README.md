@@ -173,7 +173,7 @@ Taking the camplore application, which is the graduation project of my undergrad
 </div>
 
 <details style="margin-top: 24px">
-<summary>Mobile Developer at <a href="https://digitastic.de" >digitastic</a> | 02.2022 - Present</summary>
+<summary>Mobile Developer at <a href="https://digitastic.de" >digitastic</a> | 02.2022 - 01.2023</summary>
 <div style="margin-top: 16px;">
 
 - 🇹🇷 İzmir
