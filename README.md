@@ -114,11 +114,24 @@ As a hardworking and ambitious **Visual Communication Designer** and **self-taug
 
 </div>
 
+<!-- ConnectableKit Section Start -->
+
+# [📦 ConnectableKit](https://github.com/tugcanonbas/connectable-kit)
+
+ConnectableKit is a Swift package for the Vapor framework that simplifies the response DTOs and JSON structures for API projects.
+
+#### Features
+
+- Generic JSON structure: The Connectable protocol allows you to define a wrapped Vapor Content structs.
+- Custom HTTPStatus for every responses.
+- ErrorMiddleware configurations for handling Vapor's error as ConnectableKit JSON output.
+- CORSMiddleware configurations for handling Vapor's CORSMiddleware with ease.
+
 <!-- eightthings Section Start -->
 
 <div>
 
-#### <a href="https://github.com/tugcanonbas/eightthings_public">📱 eightthings</a>
+# [📱 eightthings](https://github.com/tugcanonbas/eightthings_public)
 
 </div>
 
@@ -144,7 +157,7 @@ As a hardworking and ambitious **Visual Communication Designer** and **self-taug
 
 <div>
 
-#### <a href="https://www.behance.net/gallery/133310875/Camplore-UIUX">📱 camplore</a>
+## <a href="https://www.behance.net/gallery/133310875/Camplore-UIUX">📱 camplore</a>
 
 </div>
 
