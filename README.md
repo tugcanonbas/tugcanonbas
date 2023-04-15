@@ -127,6 +127,21 @@ ConnectableKit is a Swift package for the Vapor framework that simplifies the re
 - ErrorMiddleware configurations for handling Vapor's error as ConnectableKit JSON output.
 - CORSMiddleware configurations for handling Vapor's CORSMiddleware with ease.
 
+<!-- ConnectableKit Section Start -->
+
+# [📦 Authomatek](https://github.com/tugcanonbas/authomatek)
+
+Authomatek is a Swift package for Vapor that provides pre-configured authentication for relational databases. It automates the process of creating all the necessary routes, controllers, and models, allowing you to quickly and easily set up authentication for your Vapor application.
+
+With Authomatek, you can get up and running with secure user authentication in no time. Additionally, Authomatek supports JSON Web Tokens (JWT) for secure user authentication and authorization.
+
+#### Features
+
+- User registration
+- User login (with JWT)
+- User logout
+- User JWT refresh
+
 <!-- eightthings Section Start -->
 
 <div>
