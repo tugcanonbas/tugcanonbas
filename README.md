@@ -74,34 +74,6 @@ As a hardworking and ambitious **Visual Communication Designer** and **self-taug
 
 <!-- Keep In Touch Section End -->
 
-<!-- Skill Section Start -->
-
-<div style="margin-top: 32px;">
-
-### Tools & Technologies I Use
-
-[![My Skills](https://skillicons.dev/icons?i=swift,dart,flutter,kotlin,py,firebase,git,github,gitlab,vscode,unity)](https://github.com/tugcanonbas)
-
-</div>
-
-<div style="margin-top: 32px;">
-
-### Design Tools & Technologies I Use
-
-[![My Skills](https://skillicons.dev/icons?i=figma,xd,ai,ps,ae,pr,au,blender,sketchup)](https://behance.net/tugcanonbas)
-
-</div>
-
-<div style="margin-top: 32px;">
-
-### Tools & Technologies I Trying To Learn
-
-[![My Skills](https://skillicons.dev/icons?i=linux,nginx,postgres,bash,django,docker,go,rust,kubernetes,vim,neovim,nextjs,regex,supabase,tailwind,tensorflow,ts,androidstudio,appwrite,mongodb&perline=10)](https://github.com/tugcanonbas)
-
-</div>
-
-<!-- Skill Section End -->
-
 <!-- The Things Section Start -->
 
 <div style="margin-top: 32px;">
@@ -185,6 +157,36 @@ Taking the camplore application, which is the graduation project of my undergrad
 <!-- eightthings Section Start -->
 
 <!-- The Things That In Progress Section Start -->
+
+<!-- Skill Section Start -->
+
+<div style="margin-top: 32px;">
+
+### Tools & Technologies I Use
+
+[![My Skills](https://skillicons.dev/icons?i=swift,dart,flutter,kotlin,py,firebase,git,github,gitlab,vscode,unity)](https://github.com/tugcanonbas)
+
+</div>
+
+<div style="margin-top: 32px;">
+
+### Design Tools & Technologies I Use
+
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,ai,ps,ae,pr,au,blender,sketchup)](https://behance.net/tugcanonbas)
+
+</div>
+
+<div style="margin-top: 32px;">
+
+### Tools & Technologies I Trying To Learn
+
+[![My Skills](https://skillicons.dev/icons?i=linux,nginx,postgres,bash,django,docker,go,rust,kubernetes,vim,neovim,nextjs,regex,supabase,tailwind,tensorflow,ts,androidstudio,appwrite,mongodb&perline=10)](https://github.com/tugcanonbas)
+
+</div>
+
+<!-- Skill Section End -->
+
+---
 
 <!-- Stats Section Start -->
 
