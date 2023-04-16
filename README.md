@@ -114,6 +114,25 @@ With Authomatek, you can get up and running with secure user authentication in n
 - User logout
 - User JWT refresh
 
+# [🖥️ AuthoConnectable](https://github.com/tugcanonbas/authomatek)
+
+A template to create a new Vapor project with ease of Authomatek and ConnectableKit packages!
+
+#### Features
+
+- Pre-configured with Authomatek and ConnectableKit packages
+  - That mean you can directly use Authentication with the structured JSON response
+- Pre-configured `ServerConfiguration` for the API
+  - Server status info logs for environment that is using.
+  - Settting for the hostname and port.
+  - `ConnectableKit` configurations
+  - Default `FileMiddleware` for public directory
+  - Use `.leaf` if you did choose to use Leaf as the template engine
+  - `Authomatek` configurations
+  - Database configurations (Just for SQL databases)
+  - Route configurations
+  - Pre-configured `Constant`s and `Endpoint`s
+
 <!-- eightthings Section Start -->
 
 <div>
