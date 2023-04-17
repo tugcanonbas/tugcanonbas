@@ -142,7 +142,7 @@ With Authomatek, you can get up and running with secure user authentication in n
 - User logout
 - User JWT refresh
 
-# [🖥️ AuthoConnectable](https://github.com/tugcanonbas/authomatek)
+# [🖥️ AuthoConnectable](https://github.com/tugcanonbas/authoconnectable)
 
 A template to create a new Vapor project with ease of Authomatek and ConnectableKit packages!
 
