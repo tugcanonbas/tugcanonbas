@@ -122,6 +122,22 @@ Check live version on [tugcanonbas.com](https://tugcanonbas.com)
 
 </div>
 
+<!-- Critique Section Start -->
+
+<div>
+
+# [📱 Critique](https://critique.tugcanonbas.com/download)
+
+</div>
+
+|  |   |  |  |   |  |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
+| ![](https://github.com/tugcanonbas/tugcanonbas/blob/main/critique/critique-appstore-1.png) | ![](https://github.com/tugcanonbas/tugcanonbas/blob/main/critique/critique-appstore-2.png) | ![](https://github.com/tugcanonbas/tugcanonbas/blob/main/critique/critique-appstore-3.png) | ![](https://github.com/tugcanonbas/tugcanonbas/blob/main/critique/critique-appstore-4.png) | ![](https://github.com/tugcanonbas/tugcanonbas/blob/main/critique/critique-appstore-5.png) | ![](https://github.com/tugcanonbas/tugcanonbas/blob/main/critique/critique-appstore-6.png) |
+
+<br />
+
+<!-- eightthings Section Start -->
+
 <!-- ConnectableKit Section Start -->
 
 # [📦 ConnectableKit](https://github.com/tugcanonbas/connectable-kit)
