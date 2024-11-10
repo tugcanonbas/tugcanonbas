@@ -60,7 +60,7 @@
 
 My personal website that I made with [SvelteKit](https://svelte.dev), [TailwindCSS](https://tailwindcss.com) and [TypeScript](https://www.typescriptlang.org).
 
-Check live version on [tugcanonbas.com](https://tugcanonbas.com)
+Deployed to my [VPS](https://hostinger.com) via [Docker](https://docker.com) on [tugcanonbas.com](https://tugcanonbas.com)
 
 </div>
 
