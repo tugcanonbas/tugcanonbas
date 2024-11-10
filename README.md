@@ -1,28 +1,6 @@
-<!-- Header Image Section Start -->
-<!--
-<div>
-
-![tugcanonbas banner](https://picsum.photos/800/300)
-
-</div>
--->
-<!-- Header Image Section End -->
-
-<!-- Welcoming Section Start -->
-<div style="margin-top: 32px">
-
-##  Hi there! I'm Tuğcan
-
-</div>
-
+# 🙋🏻‍♂️ Hi there! I'm Tuğcan
 ### A Designer & A Developer.
-
 #### I'm passionate about fusing creativity and technology, I design experiences that I can code.
-
-
-<!-- Welcoming Section Start -->
-
-<!-- Keep In Touch Section Start -->
 
 <div style="margin-top: 32px">
 <div style="
