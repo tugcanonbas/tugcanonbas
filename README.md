@@ -51,19 +51,19 @@
     gap: 20px;
     ">
 
-<a href="https://linkedin.com/in/tugcanonbas">
+<a href="https://linkedin.com/in/tugcanonbas" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://behance.net/tugcanonbas">
+<a href="https://behance.net/tugcanonbas" target="_blank">
 <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white">
 </a>
-<a href="https://apps.apple.com/tr/developer/tugcan-onbas/id1606259525">
+<a href="https://apps.apple.com/tr/developer/tugcan-onbas/id1606259525" target="_blank">
 <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white">
 </a>
-<a href="https://x.com/tgcn_dev">
+<a href="https://x.com/tgcn_dev" target="_blank">
 <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
 </a>
-<a href="https://read.cv/tugcanonbas">
+<a href="https://read.cv/tugcanonbas" target="_blank">
 <img style="width: 24px;" src="https://read.cv/favicon.ico">
 </a>
 
