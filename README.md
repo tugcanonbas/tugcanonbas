@@ -56,11 +56,9 @@
 <div style="border-top: 1px solid #303030; margin-top: 16px; margin-bottom: 16px;"></div>
 <!-- tugcanonbas.com -->
 
-# [🌐 Personal Website (tugcanonbas.com)](https://tugcanonbas.com)
+# [🌐 tugcanonbas.com](https://tugcanonbas.com)
 
-My personal website that I made with [SvelteKit](https://svelte.dev), [TailwindCSS](https://tailwindcss.com) and [TypeScript](https://www.typescriptlang.org).
-
-Deployed to my [VPS](https://hostinger.com) via [Docker](https://docker.com) on [tugcanonbas.com](https://tugcanonbas.com)
+My digital playground that I made with [SvelteKit](https://svelte.dev), [TailwindCSS](https://tailwindcss.com) and [TypeScript](https://www.typescriptlang.org). Deployed on my [VPS](https://hostinger.com) via [Docker](https://docker.com)
 
 </div>
 
