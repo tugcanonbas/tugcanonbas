@@ -57,11 +57,14 @@
 <a href="https://behance.net/tugcanonbas">
 <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white">
 </a>
+<a href="https://apps.apple.com/tr/developer/tugcan-onbas/id1606259525">
+<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white">
+</a>
 <a href="https://x.com/tgcn_dev">
 <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
 </a>
-<a href="https://apps.apple.com/tr/developer/tugcan-onbas/id1606259525">
-<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white">
+<a href="https://read.cv/tugcanonbas">
+<img style="width: 24px;" src="https://read.cv/favicon.ico">
 </a>
 
 </div>
@@ -158,8 +161,6 @@ A template to create a new Vapor project with ease of Authomatek and Connectable
   - Route configurations
   - Pre-configured `Constant`s and `Endpoint`s
 
-<!-- eightthings Section Start -->
-
 <div>
 
 # [📱 eightthings](https://github.com/tugcanonbas/eightthings_public)
@@ -172,31 +173,4 @@ A template to create a new Vapor project with ease of Authomatek and Connectable
 
 <br />
 
-<!-- eightthings Section Start -->
-
-<!-- The Things Section End -->
-
-<!-- The Things That In Progress Section Start -->
-
-<div style="margin-top: 32px;">
-
-### 💻 The Things That In Progress
-
-</div>
-
-<!-- camplore Section Start -->
-
-
-<br />
-
-<!-- eightthings Section Start -->
-
-<!-- The Things That In Progress Section Start -->
-
-<!-- Stats Section Start -->
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tugcanonbas&theme=highcontrast)](https://git.io/streak-stats)
-
-<!-- Stats Section Start -->
-
-<!-- Experience Section Start -->
